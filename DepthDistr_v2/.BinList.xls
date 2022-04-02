@@ -1,0 +1,4 @@
+DefaulPrefix	DepthDistribution
+Samtools	DEFAULTDIR/Softs/samtools-1.11/bin/samtools
+Rscript	DEFAULTDIR/Softs/R-3.6.3/bin/Rscript
+MapScript	BINDIR/DepthDistri_v2.R

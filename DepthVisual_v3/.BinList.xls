@@ -1,0 +1,3 @@
+Samtools	DEFAULTDIR/Softs/samtools-1.11/bin/samtools
+Rscript	DEFAULTDIR/Softs/R-3.6.3/bin/Rscript
+DepthVisual_v1.R	BINDIR/DepthCheck_v1.R
